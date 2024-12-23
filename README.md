@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @AlazkaBoi
+- 👀 I’m interested in web frameworks, Django, React, programming languages, music and photography
+- 📫 How to reach me. You can find me @AlazkaBoi on twitter
+ 
 
 <!--
 **Alotab/alotab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
